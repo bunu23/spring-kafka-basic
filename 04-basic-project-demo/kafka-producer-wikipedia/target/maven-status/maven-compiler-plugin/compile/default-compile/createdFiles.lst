@@ -1,0 +1,4 @@
+com/bunu/KafkaTopicConfig.class
+com/bunu/WikimediaChangesHandler.class
+com/bunu/SpringBootProducerApplication.class
+com/bunu/WikimediaChangesProducer.class
